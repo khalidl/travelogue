@@ -1,0 +1,27 @@
+Title: Amsterdam
+----
+ShortCode: ams
+----
+Country: The Netherlands
+----
+HeaderContrast: l
+----
+HeaderBar: 
+----
+Date: 2010-06-27
+----
+IntroHeader: Centrum
+----
+IntroText:
+As the commercial capital of the Netherlands and one of the top financial centres in Europe, Amsterdam is considered an alpha world city.
+----
+Text: 
+# Walking distance
+Amsterdam fans out south from the Amsterdam Centraal railway station. The oldest area of the town is known as de Wallen (the quays). It lies to the east of Damrak and contains the city's famous red light district. To the south of de Wallen is the old Jewish quarter of Waterlooplein. The 17th century canals of Amsterdam, known as the Grachtengordel, embraces the heart of the city where homes have interesting gables. Beyond the Grachtengordel are the former working class areas of Jordaan and de Pijp. The Museumplein with the city's major museums, the Vondelpark, a 19th-century park named after the Dutch writer Joost van den Vondel, and the Plantage neighbourhood, with the zoo, are also located outside the Grachtengordel.
+
+Since Amsterdam is a multicultural city, a lot of different ethnic restaurants can be found. Restaurants range from being rather luxurious and expensive to being ordinary and affordable. Amsterdam also possesses many discothèques. The two main nightlife areas for tourists are the (link: http://en.wikipedia.org/wiki/Leidseplein text: Leidseplein) and the (link: http://en.wikipedia.org/wiki/Rembrandtplein text: Rembrandtplein). The Paradiso, Melkweg and Sugar Factory are cultural centres, which turn into discothèques on some nights.
+
+# Nightlife
+Amsterdam is famous for its vibrant and diverse nightlife. Amsterdam has many cafés (bars). They range from large and modern to small and cozy. The typical Bruine Kroeg (brown café) breathe a more old fashioned atmosphere with dimmed lights, candles, and somewhat older clientele. Most cafés have terraces in summertime. A common sight on the Leidseplein during summer is a square full of terraces packed with people drinking beer or wine.
+
+

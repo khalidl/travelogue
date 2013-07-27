@@ -1,0 +1,7 @@
+Title: Travelogue
+----
+Author: Khalid Laouhi
+----
+Description: Travel Blog
+----
+(date: Year) (link: http://khalidl.nl text: Khalid Laouhi)

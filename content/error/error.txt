@@ -1,0 +1,8 @@
+Title: Sorry, but we haven't visited that place yet (404)
+----
+Message: We haven't visited that place yet, but it is on our wishlist!
+----
+MessageAlt: Looks like we haven't visited that place yet. Sorry!
+----
+Text: 
+Read about the lovely places we've visited in the (link: archive text: archive) or view our latest entries on the (link: / text: homepage).

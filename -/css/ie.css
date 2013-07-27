@@ -1,0 +1,33 @@
+/* FULL HEIGHT VIEWPORT HEADERS
+--------------------------------------------- */
+html, body {
+  	height: 100%; 
+  }
+
+body {
+	min-height: 100%;
+}
+
+article {
+	height: 100%;
+}
+
+header {
+	height: 100%;
+}
+
+/* CLEAR FLOATS FOR IE MISFITS
+--------------------------------------------- */
+* html .group { /* ie6 */
+	height: 1%;
+}
+
+*:first-child+html .group { /* ie7 */
+	min-height: 1px;
+}
+
+/* IMAGES BE CURED
+--------------------------------------------- */
+img { 
+  -ms-interpolation-mode: bicubic;
+}

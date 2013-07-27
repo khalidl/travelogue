@@ -1,0 +1,54 @@
+/* 	CITY BACKGROUNDS ON THE HOMEPAGE
+----------------------------------------------------------------------- */
+.grid .nyc {
+	background-image: url(/-/img/cities/nyc/bg/nyc-thumb.jpg);
+}
+
+.grid .sfo {
+	background-image: url(/-/img/cities/sfo/bg/sf-thumb.jpg);
+}
+
+.grid .tky{
+	background-image: url(/-/img/cities/tky/bg/tky-thumb.jpg);
+}
+
+.grid .osl {
+	background-image: url(/-/img/cities/osl/bg/osl-thumb.jpg);
+}
+
+.grid .ams {
+	background-image: url(/-/img/cities/ams/bg/ams-thumb.jpg);
+}
+
+.grid .muc {
+	background-image: url(/-/img/cities/muc/bg/muc-thumb.jpg);
+}
+
+
+/* 	CITY BACKGROUNDS ON THE ARTICLE PAGE
+	use airport codes if available: http://www.world-airport-codes.com/
+----------------------------------------------------------------------- */
+.nyc {
+	background-image: url(/-/img/cities/nyc/bg/nyc.jpg);
+}
+
+.sfo {
+	background-image: url(/-/img/cities/sfo/bg/sfo.jpg);
+}
+
+.tky{
+	background-image: url(/-/img/cities/tky/bg/tky.jpg);
+}
+
+.osl {
+	background-image: url(/-/img/cities/osl/bg/osl.jpg);
+}
+
+.ams {
+	background-image: url(/-/img/cities/ams/bg/ams.jpg);
+}
+
+.muc {
+	background-image: url(/-/img/cities/muc/bg/muc2.jpg);
+}
+/*----------------------------------------------------------------------- */
