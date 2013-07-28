@@ -658,9 +658,9 @@ figcaption sup {
 	/*width: 100%;*/
 }
 
-/* zoneTER
+/* FOOTER
 --------------------------------------------- */
-/*zoneter {
+/*footer {
 	position: relative;
 	padding-top: 3.75em;
 	padding-bottom: 10em;
@@ -668,11 +668,11 @@ figcaption sup {
 	background: #fff;
 }
 
-zoneter h1 {
+footer h1 {
 	display: none;
 }*/
 
-/* zoneTER NAVIGATION
+/* FOOTER NAVIGATION
 --------------------------------------------- */
 .navigator {
 	/*background: gold;*/
