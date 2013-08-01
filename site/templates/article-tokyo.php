@@ -13,7 +13,7 @@
 
 		<article>
 		<!-- <article class="crop"> -->
-			<header class="<?php echo $page->shortcode() ?> bg">
+			<header class="<?php echo $page->shortcode() ?> js-bg">
 				<h1 class="tokyo"><span><?php echo $page->titlealt() ?> </span><span><?php echo $page->country() ?></span></h1>
 			</header>
 
