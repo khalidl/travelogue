@@ -11,7 +11,7 @@
 
 		<article>
 		<!-- <article class="crop"> -->
-			<header class="<?php echo $page->shortcode() ?> bg">
+			<header class="<?php echo $page->shortcode() ?> js-bg">
 				<h1 class="inflate"><?php echo $page->title() ?> <span><?php echo $page->country() ?></span></h1>
 				<p class="bar"><span><?php echo $page->headerbar() ?></span></p>
 			</header>
