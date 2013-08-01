@@ -1126,8 +1126,10 @@ footer h1 {
 	.grid .zone li {
 		height: 8em;
 		position: relative;
-		top: -webkit-calc(50% - 3em);
-		top: 		 calc(50% - 3em);
+		/*top: -webkit-calc(50% - 3em);*/
+		/*top: 		 calc(50% - 3em);*/
+		top: -webkit-calc(50% - 1em);
+		top: 		 calc(50% - 1em);
 		/*background: pink;*/
 	}
 
@@ -1322,8 +1324,8 @@ footer h1 {
 
 	.grid .zone li {
 		height: 6em;
-		top: -webkit-calc(50% - 2em);
-		top: 		 calc(50% - 2em);
+		/*top: -webkit-calc(50% - 2em);*/
+		/*top: 		 calc(50% - 2em);*/
 	}
 
 	.grid .zone h1 {
