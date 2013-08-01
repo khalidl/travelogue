@@ -96,7 +96,7 @@ I hope you enjoy using this theme, please let me know when you use it or have an
 - [Cloudy Tokyo](http://www.flickr.com/photos/soshiro/8039118040/in/photostream/)
 
 #### Amsterdam
-- [Amsterdam by Night](http://www.flickr.com/photos/eye-rees/7099543389/)
+- [Bike](http://www.flickr.com/photos/shareq/9029051858/)
 
 #### Oslo
 - [Oslo](http://www.flickr.com/photos/simenschi/8828960550/)
