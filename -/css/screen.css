@@ -196,17 +196,17 @@ section {
 
 /* HEADER + MAIN NAV
 --------------------------------------------- */
-#header {
+.main-header {
 	position: absolute;
 	width: 100%;
 	z-index: 2000;
 }
 
-#header h1 {
+.main-header h1 {
 	display: none;
 }
 
-#header nav {
+.main-header nav {
 	float: right;
 	margin: 3.75em 3.75em 0 0;
 	margin: 6em 6em 0 0;
@@ -215,19 +215,19 @@ section {
 			transition: opacity .4s linear;
 }
 
-body:hover #header nav {
+body:hover .main-header nav {
 	opacity: 1;
 }
 
-#header li {
+.main-header li {
 	float: left;
 }
 
-/*#header li:first-of-type {
+/*.main-header li:first-of-type {
 	margin-right: 1px;
 }*/
 
-#header a {
+.main-header a {
 	display: block;
 	color: #fff;
 	padding: 8px 24px;
@@ -250,38 +250,38 @@ body:hover #header nav {
 }
 
 /* Contrast for header bg-image: (l)ight, (m)id, (d)ark */
-#header.contrast-l a {
+.main-header.contrast-l a {
 	/*border: 1px solid #fff;*/
 	background: rgba(255,255,255,.08);
 }
 
-#header.contrast-m a {
+.main-header.contrast-m a {
 	/*border: 1px solid #fff;*/
 	background: rgba(0,0,0,.2);
 	background: rgba(0,0,0,.14);
 }
 
-#header.contrast-d a {
+.main-header.contrast-d a {
 	/*border: 1px solid #fff;*/
 	background: rgba(0,0,0,.9);
 }
 
-#header a:hover {
+.main-header a:hover {
 	background: rgba(17,17,17,.2);
 }
 
-#header.contrast-m a:hover {
+.main-header.contrast-m a:hover {
 	/*border: 1px solid #fff;*/
 	background: rgba(0,0,0,.4);
 }
 
-#header .home {
+.main-header .home {
 	/*border-right: 1px solid rgba(255,255,255,.1);*/
 	border-top-right-radius: 0;
 	border-bottom-right-radius: 0;
 }
 
-#header .arc {
+.main-header .arc {
 	border-top-left-radius: 0;
 	border-bottom-left-radius: 0;
 }
@@ -1043,7 +1043,7 @@ footer h1 {
 
 /* iPad (landscape) */
 @media only screen and (max-device-width: 1024px) {
-	#header nav {
+	.main-header nav {
 		opacity: 1;
 	}
 
@@ -1184,7 +1184,7 @@ footer h1 {
 }
 
 @media only screen and (max-width: 768px) {
-	#header nav {
+	.main-header nav {
 		float: none;
 		width: 201px;
 		margin: 6em auto;
@@ -1336,11 +1336,11 @@ footer h1 {
 		padding: 0 1.5em;
 	}
 
-	#header {
+	.main-header {
 		position: static;
 	}
 
-	#header nav {
+	.main-header nav {
 		position: absolute;
 		top: 0;
 		width: 100%;
@@ -1350,7 +1350,7 @@ footer h1 {
 		opacity: 1;
 	}
 
-	#header li {
+	.main-header li {
 		/*float: none;*/
 		/*float: left;*/
 		/*display: inline-block;*/
@@ -1359,11 +1359,11 @@ footer h1 {
 		margin: 0;
 	}
 
-	#header li:first-of-type {
+	.main-header li:first-of-type {
 		margin-right: 0;
 	}
 
-	#header a {
+	.main-header a {
 		width: 100%;
 		padding: 16px;
 		/*font-size: 1.125em;*/
@@ -1372,7 +1372,7 @@ footer h1 {
 		background: rgba(0,0,0,.4);
 	}
 
-	#header a:hover {
+	.main-header a:hover {
 		background: #000;
 	}
 

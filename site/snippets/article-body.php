@@ -1,5 +1,5 @@
 	<body class="gf">
-		<header id="header" class="contrast-<?php echo $page->headercontrast() ?>">
+		<header class="main-header contrast-<?php echo $page->headercontrast() ?>">
 			<h1><?php echo $page->title() ?></h1>
 			<nav role="navigation">
 				<ul class="group">
