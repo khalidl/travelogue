@@ -15,7 +15,7 @@ Date: 2011-10-15
 IntroHeader: Eastern Capital
 ----
 IntroText:
-Tokyo , officially Tokyo Metropolis, is one of the 47 prefectures of Japan. Tokyo is the capital of Japan, the center of the Greater Tokyo Area, and the largest metropolitan area in the world.
+Tokyo, officially Tokyo Metropolis, is one of the 47 prefectures of Japan. Tokyo is the capital of Japan, the center of the Greater Tokyo Area, and the largest metropolitan area in the world.
 ----
 Text: 
 # Shibuya
