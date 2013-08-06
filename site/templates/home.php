@@ -1,4 +1,4 @@
-<?php snippet('header') ?>
+<?php snippet('home-header') ?>
 
 	<body class="main gf">
 
