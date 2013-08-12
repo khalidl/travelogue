@@ -104,5 +104,5 @@ I hope you enjoy using this theme, please let me know when you use it or have an
 #### Munchen
 - [Live at Olympiastadion](http://www.flickr.com/photos/a-haranghy/8750699235/)
 
-#### 404 Pages
+#### 404 Page
 - [The Blue Marble - Nasa Visible Earth](http://visibleearth.nasa.gov/view.php?id=57723)
