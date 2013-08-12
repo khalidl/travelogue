@@ -976,7 +976,7 @@ footer h1 {
 	font-size: 4.5em;
 	line-height: 1.2;
 	text-align: center;
-	text-transform: none !important;
+	text-transform: none;
 }
 
 .error404 h1 span {
@@ -988,8 +988,8 @@ footer h1 {
 	font-size: inherit;
 	text-transform: capitalize;
 	border-bottom: 2px solid #fff;
-	word-wrap: break-word
-	overflow-wrap: break-word
+	word-wrap: break-word;
+	overflow-wrap: break-word;
 }
 
 .gf .error404 h1 span {
