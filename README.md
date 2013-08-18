@@ -8,7 +8,7 @@ Please let me know if you use this theme, as I'd love to see what you do with it
 ## Getting started
 If you're not entirely familiar with Kirby, then it's best to quickly go through the following little guide: [Getting started](http://getkirby.com/docs/getting-started). After that download [Kirby](http://getkirby.com/downloads), unzip the contents and read the included readme.
 
-You will now have Kirby folder with a basic installation and its standard theme. From that folder delete the following **three** subfolders:  
+You will now have a Kirby folder with a basic installation and its standard theme. From that folder delete the following **three** subfolders:  
 - `/assets`  
 - `/content `  
 - `/site`  
