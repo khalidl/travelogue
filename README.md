@@ -42,7 +42,7 @@ First add two backgrounds to `/-/img/cities/[YOUR CITY NAME]/bg/`. A small versi
 ### CSS
 Backgrounds for cities are then added via **cities.css** which can be found in `/-/css/`. Simply duplicate a rule that is already provided in the stylesheet and modify it to reflect the correct path to the images. You have to do this twice, one for the homepage and one for the article header.
 
-Take note of the class names you give the CSS-rules, these are important when modifying the article's main text file. You can name them however you want, but the included examples all use a three-letter class for consistency, most of which can be found on [World Airport Codes](http://www.world-airport-codes.com/)
+Take note of the class names you give the CSS-rules, these are important when modifying the article's main text file. You can name them however you want, but the included examples all use a three-letter class for consistency, most of which can be found on [World Airport Codes](http://www.world-airport-codes.com/).
 
 ### Content
 I recommend you read up on this primer first: [Adding content](http://getkirby.com/docs/content).
