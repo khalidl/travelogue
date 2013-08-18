@@ -77,7 +77,7 @@ I hope you enjoy using this theme, please let me know when you use it or have an
 
 ## Attributions
 ### Favicon
-- [Globe designed by Massimiliano Mauro from The Noun Project](http://thenounproject.com/noun/globe/#icon-No7977)
+- [Globe](http://thenounproject.com/noun/globe/#icon-No247) from The Noun Project
 
 ### Images
 #### New York
