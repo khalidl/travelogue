@@ -22,7 +22,7 @@ Unzip Travelogue and copy over the following subfolders and files to the Kirby f
 
 Great, you have all the files in place to be uploaded to your server.
 If you're on a Mac, make sure Finder is set to show invisible files. You might miss the **.htaccess** file if you don't.
-All there is to do is upload the following files to your server:  
+All there's left to do is upload the following files to your server:  
 - `/-`  
 - `/content`  
 -  `/kirby`  
