@@ -1,4 +1,3 @@
-
 Title: San Francisco
 ----
 ShortCode: sfo
@@ -18,9 +17,9 @@ San Francisco, officially the City and County of San Francisco, is the leading f
 ----
 Text: 
 # Day One
-The only consolidated city-county in (link: http://en.wikipedia.org/wiki/California text: California), San Francisco encompasses a land area of about 46.9 square miles (121 km2) on the northern end of the San Francisco Peninsula, giving it a density of about 17,620 people per square mile (6,803 people per km2). Francisco is the fourth most populous city in California, after Los Angeles, San Diego and San Jose, and the 14th most populous city in the United States—with a Census-estimated 2012 population of 825,863. The city is also the financial and cultural hub of the larger, San Jose-San Francisco-Oakland metropolitan area, with a population of 8.4 million.
+The only consolidated city-county in (link: http://en.wikipedia.org/wiki/California text: California), San Francisco encompasses a land area of about 46.9 square miles (121 km²) on the northern end of the San Francisco Peninsula, giving it a density of about 17,620 people per square mile (6,803 people per km²). Francisco is the fourth most populous city in California, after Los Angeles, San Diego and San Jose, and the 14th most populous city in the United States—with a Census-estimated 2012 population of 825,863. The city is also the financial and cultural hub of the larger, San Jose-San Francisco-Oakland metropolitan area, with a population of 8.4 million.
 
-San Francisco (Spanish for "Saint Francis") was founded on June 29, 1776, when colonists from Spain established a fort at the Golden Gate and a mission named for St. Francis of Assisi a few miles away. (link: http://en.wikipedia.org/wiki/California_Gold_Rush text: The California Gold Rush) of 1849 brought rapid growth, making it the largest city on the West Coast at the time. 
+San Francisco (Spanish for “Saint Francis”) was founded on June 29, 1776, when colonists from Spain established a fort at the Golden Gate and a mission named for St. Francis of Assisi a few miles away. (link: http://en.wikipedia.org/wiki/California_Gold_Rush text: The California Gold Rush) of 1849 brought rapid growth, making it the largest city on the West Coast at the time. 
 
 # Exploration
 Located across the bay, (link: http://en.wikipedia.org/wiki/Oakland_International_Airport text: Oakland International Airport) is a popular, low-cost alternative to SFO. Geographically, Oakland Airport is approximately the same distance from downtown San Francisco as SFO, but due to its location across San Francisco Bay, it is greater driving distance from San Francisco.

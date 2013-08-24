@@ -13,15 +13,15 @@ Date: 2012-06-05
 IntroHeader: Empire State
 ----
 IntroText:
-Located on one of the world's largest natural harbors, New York City consists of five boroughs, each of which is a county of New York State.
+Located on one of the world’s largest natural harbors, New York City consists of five boroughs, each of which is a county of New York State.
 ----
 Text: 
 # Day One
 New York has architecturally noteworthy buildings in a wide range of styles and from distinct time periods from the saltbox style Pieter Claesen Wyckoff House in Brooklyn, the oldest section of which dates to 1656, to the modern (link: http://en.wikipedia.org/wiki/One_World_Trade_Center text: One World Trade Center), the skyscraper currently under construction at Ground Zero in Lower Manhattan and currently the most expensive new office tower in the world.
 
-Manhattan is the most densely populated borough and is home to Central Park and most of the city's skyscrapers. Most of the borough is on Manhattan Island, at the mouth of the Hudson River. Manhattan is the financial center of the city and contains the headquarters of many major corporations, the UN, a number of important universities, and many cultural attractions. Manhattan is loosely divided into Lower, Midtown, and Uptown regions. Uptown Manhattan is divided by (link: http://en.wikipedia.org/wiki/Central_Park text: Central Park) into the Upper East Side and the Upper West Side, and above the park is Harlem. New York City's remaining four boroughs are collectively referred to as the "outer boroughs". 
+Manhattan is the most densely populated borough and is home to Central Park and most of the city’s skyscrapers. Most of the borough is on Manhattan Island, at the mouth of the Hudson River. Manhattan is the financial center of the city and contains the headquarters of many major corporations, the UN, a number of important universities, and many cultural attractions. Manhattan is loosely divided into Lower, Midtown, and Uptown regions. Uptown Manhattan is divided by (link: http://en.wikipedia.org/wiki/Central_Park text: Central Park) into the Upper East Side and the Upper West Side, and above the park is Harlem. New York City’s remaining four boroughs are collectively referred to as the “outer boroughs”. 
 
 # Exploration
-Central Park an 883-acre (3.57 km2) park in Manhattan, is the most visited city park in the United States, with 25 million visitors each year. The park contains a myriad of attractions; there are several lakes and ponds, two ice-skating rinks, the Central Park Zoo, the Central Park Conservatory Garden, the 106-acre (0.43 km2) Jackie Onassis Reservoir. Indoor attractions include Belvedere Castle with its nature center, the Swedish Cottage Marionette Theater, and the historic Carousel. On October 23, 2012, hedge fund manager John A. Paulson announced a $100 million gift to the Central Park Conservancy, the largest ever monetary donation to New York City's park system.
+Central Park an 883-acre (3.57 km²) park in Manhattan, is the most visited city park in the United States, with 25 million visitors each year. The park contains a myriad of attractions; there are several lakes and ponds, two ice-skating rinks, the Central Park Zoo, the Central Park Conservatory Garden, the 106-acre (0.43 km²) Jackie Onassis Reservoir. Indoor attractions include Belvedere Castle with its nature center, the Swedish Cottage Marionette Theater, and the historic Carousel. On October 23, 2012, hedge fund manager John A. Paulson announced a $100 million gift to the Central Park Conservancy, the largest ever monetary donation to New York City’s park system.
 
 
