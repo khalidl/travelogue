@@ -13,7 +13,7 @@ body {
 	position: relative;
 	background: #fff;
 	/*background: #f6f6f6;*/
-	font-family: "Open Sans", sans-serif;
+	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-weight: 400;
 	font-size: 100%; /* 16px */
 	line-height: 1.6;
@@ -108,7 +108,7 @@ mark {
 	vertical-align: middle;
 	margin: 0;
 	padding: 1.5em;
-	font-family: "Open Sans";
+	font-family: "Source Sans Pro", "Open Sans";
 
 	font-weight: normal;
 	border: none;
@@ -159,7 +159,7 @@ mark {
 }
 
 .gf .zone {
-	font-family: "Open Sans";
+	font-family: "Source Sans Pro", "Open Sans";
 }
 
 .gf .zone h1 {
@@ -319,7 +319,7 @@ article header {
 article header h1 {
 	display: table-cell;
 	vertical-align: middle;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-size: 3.75em; /* 60px */
 	font-weight: 400;
 	line-height: 1;
@@ -332,7 +332,7 @@ article header h1 {
 }
 
 .gf article header h1 {
-	font-family: "Open Sans";
+	font-family: "Source Sans Pro", "Open Sans";
 	font-weight: 800;
 	text-transform: none;
 	letter-spacing: normal;
@@ -712,7 +712,7 @@ footer h1 {
 	font-size: .75em;
 	text-transform: uppercase;
 	font-weight: 700;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	color: #111;
 	color: rgba(17,17,17,.8);
 	-webkit-transition: border .5s linear, color .25s linear;
@@ -824,7 +824,7 @@ footer h1 {
 	margin-right: 5%;
 	/*position: relative;*/
 	/*right: -3em;*/
-	font-family: "Open Sans", sans-serif;
+	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-size: 1.5em;
 	color: rgba(17,17,17,.2);
 }
@@ -852,7 +852,7 @@ footer h1 {
 }
 
 .archive ul h1 {
-	font-family: "Open Sans", sans-serif;
+	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-size: 3em;
 	font-size: 4.5em;
 	font-size: 2.25em;
@@ -882,7 +882,7 @@ footer h1 {
 	position: relative;
 	/*right: 8px;*/
 	border: none;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-size: .875em;
 	font-weight: normal;
 	text-transform: uppercase;

@@ -18,7 +18,8 @@
 		<link rel="stylesheet" href="-/css/reset.css">
 	  	<link rel="stylesheet" href="-/css/screen.css">
 	  	<link rel="stylesheet" href="-/css/cities.css">
-	  	<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800'>
+	  	<!-- <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800'> -->
+	  	<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900'>
 		<!--[if lt IE 9]>
 		<link rel="stylesheet" href="-/css/ie.css" />
 		<![endif]-->
