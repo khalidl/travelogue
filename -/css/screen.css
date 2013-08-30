@@ -827,6 +827,13 @@ footer h1 {
 	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-size: 1.5em;
 	color: rgba(17,17,17,.2);
+	-webkit-transition: color .3s linear;
+			transition: color .3s linear;
+}
+
+.archive div > .js-highlight {
+	color: rgba(17,17,17,1);
+	/*color: gold;*/
 }
 
 /*.archive div ul + h1 {

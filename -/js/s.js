@@ -1,8 +1,12 @@
 //***********************************************************************
-//	On page load set the header height to the same height as the viewport.
+//	1. On page load set the header height to the same height as the viewport.
 //	When resizing the browser recalculate its height and apply the same
 //	value to the header.
-//	updated: 2013-08-01 (Khalid Laouhi)
+//
+//	2. For the Archive page: when hovering over an item, highlight its
+//	corresponding year.
+//
+//	updated: 2013-08-30 (Khalid Laouhi)
 //***********************************************************************
 
 $(document).ready(function() {
@@ -24,5 +28,16 @@ $(document).ready(function() {
 		if (width <= 480) {
 			$('article header').css('height', '540px');
 		}
+	});
+
+
+	// Set a variable
+	var item = $('.archive a');
+
+	// When hovered, select its container, then select the h1, then apply a class
+	item.hover(function() {
+		$(this).parents('.group').children('h1').toggleClass('js-highlight');
+	//	console.log("Check!");
+
 	});
 });
