@@ -7,7 +7,7 @@
 					</li>
 <?php }
 			else { ?>
-					<li><a href="/"><span><i>&lsaquo;</i> Home</a></li>
+					<li><a href="/"><span><i>&lsaquo;</i> Home</span></a></li>
 <?php } ?>
 <?php if($page->hasPrevVisible()) { ?>
 					<li>
@@ -15,7 +15,7 @@
 					</li>
 <?php }
 else { ?>
-					<li><a href="/"><span>Home <i>&rsaquo;</i></a></li>
+					<li><a href="/"><span>Home <i>&rsaquo;</i></span></a></li>
 <?php } ?>
 				</ul>
 			</nav>
