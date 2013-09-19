@@ -18,7 +18,7 @@
 					<a href="<?php echo $article->url() ?>">	
 					<li>
 						<h1><?php echo html($article->title()) ?></h1>
-						<time><?php echo $article->date('d.m.Y') ?></time>
+						<time datetime="<?php echo $article->date('Y-m-d') ?>"><?php echo $article->date('d.m.Y') ?></time>
 					</li>
 					</a>
 				</ul>
