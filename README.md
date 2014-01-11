@@ -1,5 +1,5 @@
 # Travelogue
-Travelogue is a small travel inspired Kirby-theme. Of course it's not limited to just that, so use it in any way you like.
+Travelogue is a small travel inspired Kirby-theme. It's not limited to just that; use it in any way you like.
 
 The structure is simple and the docs on the [Kirby website](http://getkirby.com/) will help you well underway should you get stuck. Below is a starting guide on how to add an article and how to customize certain elements.
 
@@ -34,13 +34,13 @@ All there's left to do is upload the following files to your server:
 
 ## Modify
 Travelogue comes with a couple of articles to get you on your way and to see how it's structured. It is as flat as possible.
-You'll mostly be doing things in the `/content` folder. However for the background-images that are used on the homepage and the article headers you need to dive a bit into the CSS.
+You'll mostly be doing things in the `/content` folder. For the background-images that are used on the homepage and the article headers you need to dive a bit into the CSS.
 
 ### Background-images
-First add two backgrounds to `/-/img/cities/[YOUR CITY NAME]/bg/`. A small version used for the homepage and a bigger version (higher resolution) used for the header on article pages. Of course you can use the same image for both if you like.
+First add two backgrounds to `/-/img/cities/[YOUR CITY NAME]/bg/`. A small version used for the homepage and a bigger version (higher resolution) used for the header on article pages. You can also use the same image for both if you like.
 
 ### CSS
-Backgrounds for cities are then added via **cities.css** which can be found in `/-/css/`. Simply duplicate a rule that is already provided in the stylesheet and modify it to reflect the correct path to the images. You have to do this twice, one for the homepage and one for the article header.
+Backgrounds for cities are then added via **cities.css** which can be found in `/-/css/`. Duplicate a rule that is already provided in the stylesheet and modify it to reflect the correct path to the images. You have to do this twice, one for the homepage and one for the article header.
 
 Take note of the class names you give the CSS-rules, these are important when modifying the article's main text file. You can name them however you want, but the included examples all use a three-letter class for consistency, most of which can be found on [World Airport Codes](http://www.world-airport-codes.com/).
 
@@ -49,7 +49,7 @@ I recommend you read up on this primer first: [Adding content](http://getkirby.c
 
 To modify the content in an article open up it's main text file – **article.txt** – which is located in the content-folder, i.e. `/content/01-article/article.txt`.
 
-All fields and content should be self-explanatory, however there are a couple of fields which need some more explanation, namely **ShortCode** and **HeaderContrast**.  
+All fields and content should be self-explanatory, but there are a couple of fields which need some more explanation, namely **ShortCode** and **HeaderContrast**.  
 
 #### ShortCode
 For this use the same class name that you used in **cities.css**. This will ensure that the right background image is added to the homepage and your article.
