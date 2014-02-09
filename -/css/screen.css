@@ -888,6 +888,7 @@ footer h1 {
 	width: 60%;
 	position: relative;
 	/*right: 8px;*/
+	right: 0;
 	border: none;
 	font-family: "Source Sans Pro", "Open Sans", sans-serif;
 	font-size: .875em;
