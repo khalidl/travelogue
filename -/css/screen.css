@@ -793,8 +793,8 @@ footer h1 {
 	padding-bottom: 1em;
 	-webkit-transform: translate3d(0px, 0px, 0px);
 			transform: translate3d(0px, 0px, 0px);
-	-webkit-transition: padding-left .3s ease;
-			transition: padding-left .3s ease;
+	-webkit-transition: padding-left .5s ease;
+			transition: padding-left .5s ease;
 }
 
 .archive a:hover, .archive a:focus {
