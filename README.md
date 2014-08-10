@@ -49,7 +49,7 @@ Take note of the class names you give the CSS-rules, these are important when mo
 ### Content
 I recommend you read up on this primer first: [Adding content](http://getkirby.com/docs/content).
 
-To modify the content in an article open up it's main text file – **article.txt** – which is located in the content-folder, i.e. `/content/01-article/article.txt`.
+To modify the content in an article, open up it's main text file – **article.txt** – which is located in the content-folder, e.g., `/content/01-munchen/article.txt`.
 
 All fields and content should be self-explanatory, but there are a couple of fields which need some more explanation, namely **ShortCode** and **HeaderContrast**.  
 
