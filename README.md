@@ -39,6 +39,8 @@ You'll mostly be doing things in the `/content` folder. For the background-image
 ### Background-images
 First add two backgrounds to `/-/img/cities/[YOUR CITY NAME]/bg/`. A small version used for the homepage and a bigger version (higher resolution) used for the header on article pages. You can also use the same image for both if you like.
 
+You can also have these images in the article folder itself if you prefer that. There is an article on the Kirby blog that explains how to do add `.css` files for each post: [Art-directed blog posts](http://getkirby.com/blog/art-directed-posts).
+
 ### CSS
 Backgrounds for cities are then added via **cities.css** which can be found in `/-/css/`. Duplicate a rule that is already provided in the stylesheet and modify it to reflect the correct path to the images. You have to do this twice, one for the homepage and one for the article header.
 
