@@ -13,7 +13,7 @@ Please let me know if you use this theme, as I'd love to see what you do with it
 If you find any bug, please open up an issue here on GitHub.
 
 ## Support
-The theme is provided as is, I can not provide support for Kirby-related issues. Travelogue works flawlessly with Kirby 1, and was tested on Kirby 2 without any major issues. I have received a couple of support requests, which ended up being hosts not fully compatible with Kirby itself. **The [Kirby Forum](http://getkirby.com/forum/) will help you find a proper solution for that.**
+The theme is provided as is, I can not provide support for Kirby-related issues. Travelogue works flawlessly with Kirby 1, and was tested on Kirby 2 without any major issues. I have received support requests, which ended up being hosts not fully compatible with Kirby itself. **The [Kirby Forum](http://getkirby.com/forum/) will help you find a proper solution for that.**
 
 ## Getting started
 If you're not entirely familiar with Kirby, then it's best to quickly go through the following little guide: [Getting started](http://getkirby.com/docs/getting-started). After that download [Kirby](http://getkirby.com/downloads), unzip the contents and read the included readme.
