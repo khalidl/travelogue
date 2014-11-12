@@ -3,6 +3,10 @@ Travelogue is a small travel inspired Kirby-theme. It's not limited to just that
 
 The structure is simple and the docs on the [Kirby website](http://getkirby.com/) will help you well underway should you get stuck. Below is a starting guide on how to add an article and how to customize certain elements.
 
+**Note**: The theme is provided as is, I can not provide support for Kirby-related issues. Travelogue works flawlessly with Kirby 1, and was tested on Kirby 2 without any major issues. I have received a couple of support requests, which ended up being hosts not fully compatible with Kirby itself. The [Kirby Forum](http://getkirby.com/forum/) will help you find a proper solution.
+
+If you find any bug though, please open up an issue here on GitHub.
+
 Please let me know if you use this theme, as I'd love to see what you do with it. And don't forget to buy a license for Kirby to support its developer [Bastian Allgeier](http://bastianallgeier.com).
 
 ## Getting started
