@@ -1,6 +1,5 @@
 # Travelogue
 
-## Travelogue 2
 **Update 2014-11-12**: Yes, Travelogue will be updated for Kirby 2. You can safely use this version on K2 without any problems though.
 
 Travelogue is a small travel inspired Kirby-theme. It's not limited to just that; use it in any way you like.
